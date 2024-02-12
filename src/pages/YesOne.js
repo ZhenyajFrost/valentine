@@ -26,7 +26,7 @@ function YesOne() {
 
   return (
   <div>
-    <span className='text'> THE MOST BEATIFUL AND CUTTIE GIRL</span>
+    <p className='text'> THE MOST BEATIFUL AND CUTTIE GIRL</p>
     <img className='img' src={img}/>
     <div>
       <span> Do u agree??</span>

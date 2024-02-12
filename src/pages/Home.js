@@ -23,7 +23,7 @@ function Home() {
 
   return (
   <div>
-    <span className='text'> Would U be my Valentine???</span>
+    <p className='text'> Would U be my Valentine???</p>
     <img className='img'src='https://play-lh.googleusercontent.com/L6qehUCLcgG7W3cH1aBel04XKSp5GA9oX3NrUWgwaIwkiYWnhF-xJftIQz5m5Uy-0K67'/>
     <div>
       <button style={{fontSize: yesBtnSize}}onClick={onYesClick} class="button-57 btn" role="button"><span class="text">YEEESSS!!!!</span><span>Правильний вибір!!!</span></button>

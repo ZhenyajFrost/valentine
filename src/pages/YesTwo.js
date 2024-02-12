@@ -26,7 +26,7 @@ function YesTwo() {
 
   return (
   <div>
-    <span className='text'>I will never leave u until i die.<br></br>MY LOVE, MY LIFE.</span>
+    <p className='text'>I will never leave u until i die.<br></br>MY LOVE, MY LIFE.</p>
     <img className='img' src={img}/>
     <div>
       <span> Haven't u changed ur mind..?<br></br></span>
